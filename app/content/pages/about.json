@@ -5,12 +5,8 @@
 }
 {
   "title": "About Contact Info",
-<div>Website: <a href="https://satthepbienhoa.vn/">satthepbienhoa.vn</a></div>
-<div> </div>
-<div>
-<div><a href="https://www.google.com/maps/place/S%E1%BA%AFt+Th%C3%A9p+Bi%C3%AAn+H%C3%B2a/@10.9485282,106.8694035,17z/data=!3m1!4b1!4m6!3m5!1s0x3174dd0400a16e81:0xa23dafa3fcde8ea5!8m2!3d10.9485282!4d106.8694035!16s%2Fg%2F11nmh1c792?hl=vi-VN&amp;entry=ttu">Google Maps</a></div>
-<div> </div>
-<div><a href="https://www.facebook.com/congtylocthien">Facebook fanpage</a></div>
-<div> </div>
-<div>Visit the <a href="https://sites.google.com/view/satthepbienhoa/trang-ch%E1%BB%A7">Google Sites website</a></div>
+  "Website": <a href="https://satthepbienhoa.vn/">satthepbienhoa.vn</a></div>
+  "Google Map": <a href="https://maps.app.goo.gl/LXbi6GZKvKV3iPqm7">https://maps.app.goo.gl/LXbi6GZKvKV3iPqm7</a></div>
+  "Facebook fanpage": <a href="https://www.facebook.com/congtylocthien">https://www.facebook.com/congtylocthien</a></div>
+  "Google Sites website": <a href="https://sites.google.com/view/satthepbienhoa/trang-ch%E1%BB%A7">https://sites.google.com/view/satthepbienhoa/trang-ch%E1%BB%A7</a></div>
 }
