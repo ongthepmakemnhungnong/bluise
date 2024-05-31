@@ -2,8 +2,8 @@
   "title": "Homev",
   "titleTemplate": "| Bluise",
   "welcomeText": "# Welcome to Sắt Thép Biên Hòa",
-  "logo": "https://satthepbienhoa.vn/wp-content/uploads/2023/11/logo-cong-ty-1.jpg",
-  "icon": "https://satthepbienhoa.vn/wp-content/uploads/2023/11/logo-cong-ty-1.jpg",
+  "logo": "/images/uploads/logo.png ",
+  "icon": "h/images/uploads/logo.png ",
   "loadingColor": "#0b3765",
   "seoDescription": "Sắt Thép Biên Hòa",
   "seoMetaImage": ""
